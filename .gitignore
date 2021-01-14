@@ -1,0 +1,4 @@
+pyproject-test.toml
+kedro-tutorial-generated-folder/
+kedro-tutorial-with-pipeline-generated-folder/
+poetry.lock

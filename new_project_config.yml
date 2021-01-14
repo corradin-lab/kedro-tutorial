@@ -1,0 +1,5 @@
+output_dir: ./
+project_name: Tutorial to the basics of Kedro
+repo_name: kedro-tutorial-generated-folder
+python_package: kedro_tutorial
+include_example: true
